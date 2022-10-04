@@ -18,7 +18,6 @@
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
 
-
 - Luisa
     - [Series](./Amerike-LuisaSoriano/Series-Lu.md)
     - [Pelícuas](./Amerike-LuisaSoriano/Peliculas-Lu.md)
@@ -44,10 +43,17 @@
     - [Videojuegos](./Ana/Ana_VG.md)
 
 
+- José Julio.
+    - [Instrumentos](./Jose_Julio/Instrumentos_Jose_Julio.md)
+    - [Series](./Jose_Julio/Series_Jose_Julio.md)
+    - [Películas](./Jose_Julio/Pel%C3%ADculas_Jose_Julio.md)
+    - [Videojuegos](./Jose_Julio/Videojuegos_Jose_Julio.md)
+
 - Christopher
     - [Series](./Christopher/Series.md)
     - [Películas](./Christopher/Peliculas.md)
     - [Libros](./Christopher/libros.md)
     - [Videojuegos](./Christopher/videojuegos.md)
+
 
 
