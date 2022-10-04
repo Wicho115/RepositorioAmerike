@@ -2,7 +2,7 @@
 
 ![Logo Markdown](https://cdn.discordapp.com/attachments/1011284720350412802/1025059263250444308/51N-lL9zlAL.jpg)
 
-Jake Epping es profesor de inglés en una pequeña ciudad de Maine. Un día, uno de estos estudiantes adultos escribe una redacción que le deja impactado. El tema que les había propuesto era «El día que cambió mi vida», y en ella Harry Dunning cuenta lo que ocurrió la noche en que su padre volvió borracho a casa y mató a golpes de martillo a su madre, a su hermano y a su hermana. Harry logroó salvarse.
+Jake Epping es profesor de inglés en una pequeña ciudad de Maine. Un día, uno de estos estudiantes adultos escribe una redacción que le deja impactado. El tema que les había propuesto era «El día que cambió mi vida», y en ella Harry Dunning cuenta lo que ocurrió la noche en que su padre volvió borracho a casa y mató a golpes de martillo a su madre, a su hermano y a su hermana. Harry logroó salvarse..
 
 Poco después, Al, amigo de Jake y propietario del diner del barrio, le revela un gran secreto: en su almacen ha encontrado una puerta que conduce al año 1958. Al le ruega a Jake que viaje en el tiempo para cumplir una misión demencial: impedir el asesinato de Kennedy. Jake conseguirá trasladarse al año 1958 para comenzar una nueva vida con una nueva identidad y esperar el año del asesinato. Volverá a la época de Elvis y los Cadillac, se enamorará de la guapa bibliotecaria Sadie Dunhill, buscará a Lee Harvey Oswald, el supuesto asesino de Kennedy, y a la familia de su alumno Harry Dunning para evitar su tragedia.
 
