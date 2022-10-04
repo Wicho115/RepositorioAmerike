@@ -18,8 +18,8 @@
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
 
-- Edgar
-    - [Series](./Edgar/Series.md)
-    - [Pelícuas](./Edgar/Peliculas.md)
-    - [Libros](./Edgar/Libros.md)
-    - [Videojuegos](./Edgar/Videojuegos.md)
+- Santi
+    - [Series](./Santi/series.md)
+    - [Pelícuas](./Santi/peliculas.md)
+    - [Libros](./Santi/libros.md)
+    - [Videojuegos](./Santi/videojuegos.md)
