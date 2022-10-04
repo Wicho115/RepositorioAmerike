@@ -23,3 +23,9 @@
     - [Pelícuas](./Edgar/Peliculas.md)
     - [Libros](./Edgar/Libros.md)
     - [Videojuegos](./Edgar/Videojuegos.md)
+
+- Ana
+    - [Series](./Ana/Ana_Series.md)
+    - [Películas](./Ana/Ana_Pelis.md)
+    - [Libros](./Ana/Ana_Libros.md)
+    - [Videojuegos](./Ana/Ana_VG.md)
