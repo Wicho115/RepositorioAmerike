@@ -36,6 +36,12 @@
     - [Libros](./Edgar/Libros.md)
     - [Videojuegos](./Edgar/Videojuegos.md)
 
+- Elliot
+    - [Series](./ELLIOT/Series_Elliot.md)
+    - [Pelícuas](./ELLIOT/Peliculas_Elliot.md)
+    - [Libros](./ELLIOT/LIbros_Elliot.md)
+    - [Videojuegos](./ELLIOT/Videojuegos_Elliot.md)
+
 - Ana
     - [Series](./Ana/Ana_Series.md)
     - [Películas](./Ana/Ana_Pelis.md)
@@ -54,6 +60,7 @@
     - [Películas](./Christopher/Peliculas.md)
     - [Libros](./Christopher/libros.md)
     - [Videojuegos](./Christopher/videojuegos.md)
+
 
 
 
