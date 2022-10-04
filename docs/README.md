@@ -18,8 +18,28 @@
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
 
+
 - Luisa
     - [Series](./Amerike-LuisaSoriano/Series-Lu.md)
     - [Pelícuas](./Amerike-LuisaSoriano/Peliculas-Lu.md)
     - [Libros](./Amerike-LuisaSoriano/Libros-Lu.md)
     - [Videojuegos](./Amerike-LuisaSoriano/Videojuegos-Lu.md)
+
+- Santi
+    - [Series](./Santi/series.md)
+    - [Pelícuas](./Santi/peliculas.md)
+    - [Libros](./Santi/libros.md)
+    - [Videojuegos](./Santi/videojuegos.md)
+    
+- Edgar
+    - [Series](./Edgar/Series.md)
+    - [Pelícuas](./Edgar/Peliculas.md)
+    - [Libros](./Edgar/Libros.md)
+    - [Videojuegos](./Edgar/Videojuegos.md)
+
+- Ana
+    - [Series](./Ana/Ana_Series.md)
+    - [Películas](./Ana/Ana_Pelis.md)
+    - [Libros](./Ana/Ana_Libros.md)
+    - [Videojuegos](./Ana/Ana_VG.md)
+
