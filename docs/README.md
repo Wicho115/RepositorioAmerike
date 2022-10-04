@@ -6,3 +6,8 @@
     - [Libros](./Edson/Libros.md)
     - [Videojuegos](./Edson/Videojuegos.md)
 
+- Dante
+    - [Series](./Luis-Alfonso/Serie.md)
+    - [Pelícuas](./Luis-Alfonso/Pelicula.md)
+    - [Libros](./Luis-Alfonso/Libro.md)
+    - [Videojuegos](./Luis-Alfonso/Videojuego.md)
