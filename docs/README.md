@@ -11,3 +11,9 @@
     - [Películas](./Oscar/Peliculas_Oscar.md)
     - [Libros](./Oscar/Libros_Oscar.md)
     - [Videojuegos](./Oscar/Videojuegos.md)
+    
+- Dante
+    - [Series](./Luis-Alfonso/Serie.md)
+    - [Pelícuas](./Luis-Alfonso/Pelicula.md)
+    - [Libros](./Luis-Alfonso/Libro.md)
+    - [Videojuegos](./Luis-Alfonso/Videojuego.md)
