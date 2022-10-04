@@ -18,6 +18,12 @@
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
 
+- Santi
+    - [Series](./Santi/series.md)
+    - [Pelícuas](./Santi/peliculas.md)
+    - [Libros](./Santi/libros.md)
+    - [Videojuegos](./Santi/videojuegos.md)
+    
 - Edgar
     - [Series](./Edgar/Series.md)
     - [Pelícuas](./Edgar/Peliculas.md)
@@ -29,3 +35,4 @@
     - [Películas](./Ana/Ana_Pelis.md)
     - [Libros](./Ana/Ana_Libros.md)
     - [Videojuegos](./Ana/Ana_VG.md)
+
