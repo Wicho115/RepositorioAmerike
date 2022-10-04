@@ -17,3 +17,9 @@
     - [Pelícuas](./Luis-Alfonso/Pelicula.md)
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
+
+- Edgar
+    - [Series](./Edgar/Series.md)
+    - [Pelícuas](./Edgar/Peliculas.md)
+    - [Libros](./Edgar/Libros.md)
+    - [Videojuegos](./Edgar/Videojuegos.md)
