@@ -1,0 +1,24 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Instituto Universitario Amerike",
+        "source": "README.md",
+        "expand": true,
+        "url": "index.html",
+        "slug": "index"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Instituto Universitario Amerike",
+      "pageTitle": "Instituto Universitario Amerike",
+      "slug": "index"
+    }
+  },
+  "sources": {
+    "README.md": "index.html"
+  }
+}
