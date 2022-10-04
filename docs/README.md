@@ -43,3 +43,11 @@
     - [Libros](./Ana/Ana_Libros.md)
     - [Videojuegos](./Ana/Ana_VG.md)
 
+
+- Christopher
+    - [Series](./Christopher/Series.md)
+    - [Películas](./Christopher/Peliculas.md)
+    - [Libros](./Christopher/libros.md)
+    - [Videojuegos](./Christopher/videojuegos.md)
+
+
