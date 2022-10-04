@@ -17,3 +17,9 @@
     - [Pelícuas](./Luis-Alfonso/Pelicula.md)
     - [Libros](./Luis-Alfonso/Libro.md)
     - [Videojuegos](./Luis-Alfonso/Videojuego.md)
+
+- Luisa
+    - [Series](./Amerike-LuisaSoriano/Series-Lu.md)
+    - [Pelícuas](./Amerike-LuisaSoriano/Peliculas-Lu.md)
+    - [Libros](./Amerike-LuisaSoriano/Libros-Lu.md)
+    - [Videojuegos](./Amerike-LuisaSoriano/Videojuegos-Lu.md)
